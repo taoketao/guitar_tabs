@@ -1,0 +1,205 @@
+ain Riff]
+  
+ e|-------0-------3---5-----------------0-------3---5---------------0-------3---5---------------------------|
+ B|-1---3---------------3---5-3-0-1---3---------------3-5-3-0-1---3---------------3---5-3-0-1-0-------------|
+ G|-----------2-----------------------------2---------------------------2-----------------------2--2----0---|
+ D|----------------------------------------------------------------------------------------------0---2----0-|
+ A|---------------------------------------------------------------------------------------------------------|
+ E|---------------------------------------------------------------------------------------------------------|
+  
+  
+ [Intro]
+  
+ F Am C G  x 4
+  
+ [Main Riff]
+ e|-------0-------3---5-----------------0-------3---5---------------0-------3---5---------------------------|
+ B|-1---3---------------3---5-3-0-1---3---------------3-5-3-0-1---3---------------3---5-3-0-1-0-------------|
+ G|-----------2-----------------------------2---------------------------2-----------------------2--2----0---|
+ D|----------------------------------------------------------------------------------------------0---2----0-|
+ A|---------------------------------------------------------------------------------------------------------|
+ E|---------------------------------------------------------------------------------------------------------|
+ 
+ 
+ 
+  
+ [Verse]
+             F    Am  C G
+ You are the angel
+          F         Am C G
+ I am the astronaut
+             F    Am         C       G
+ You painted pictures on the fields
+               F       Am  C  G
+ Dreaming your life away
+  
+  
+ [Chorus]
+ F         Am C G
+ Let me out
+              F       Am  C  G
+ Water rising all around
+                F       Am       C    G
+ Laying with my head down in the past
+                       F       Am      C    G
+ You know that I don't stand a chance
+  
+  
+ [Break]
+ F Am C G x 4
+  
+  
+ [Verse]
+           F      Am  C  G
+ Come on Atlantis
+                 F       Am    C    G
+ Mmm-it makes me sad to think of home
+              F       Am         C   G
+ Sing me that song once more before
+              F         Am        C      G
+ We all die alone and lonely-lonely-lonely
+  
+  
+ [Chorus]
+ F         Am C G
+ Let me out
+              F       Am  C  G
+ Water rising all around
+                F       Am       C    G
+ We barely know what happened in the past
+                       F       Am      C    G
+ You know that I don't stand a chance
+  
+  
+ [Main Riff]
+ e|-------0-------3---5-----------------0-------3---5---------------0-------3---5---------------------------|
+ B|-1---3---------------3---5-3-0-1---3---------------3-5-3-0-1---3---------------3---5-3-0-1-0-------------|
+ G|-----------2-----------------------------2---------------------------2-----------------------2--2----0---|
+ D|----------------------------------------------------------------------------------------------0---2----0-|
+ A|---------------------------------------------------------------------------------------------------------|
+ E|---------------------------------------------------------------------------------------------------------|
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+My version
+the different lines/voices: 
+    The vocals come in at 16, at about 00:35 (00:36 on audio track file)
+==== intro, first 8 bars, audio 00:01-00:19
+        info: ## two fixed-width characters is about 130bpm. 
+        ' means eighth or longer and " means 16th.
+
+  ....  toned percussive cowbell-y thing serves as melody esp to contrast synth
+       |                |
+        1 e & a 2 e & a         3 and 4 are the same.
+         ' ' ' ' ' ' '''
+         I I 6 I I 6 4I5
+
+  ....  synth plays chords close to the bar. space filling.
+        1 e & a 2 e & a         3 and 4 are the same.
+        '  '   ' ' '  ' 
+
+  ....  drum line plays the most simple normal generic rhythm:
+        C=crash, ch=closed hat, s=snare, r=ride
+        (There might be a kick on the on-beats. whatever.)
+
+        The pre-intro lead rhythm:
+        0 e & a
+      k      '
+      s       '     <- hit with both hands
+
+        1 e & a 2 e & a     
+      C '                   The 3-7th bars are the same as the
+     ch  '''''''''''''''    second bar - peak generic.         
+      s   '   '   '   '     
+        
+        eighth bar:      
+        8 e & a          
+     ch '''              
+      s   '    "         
+      r      ' 
+
+  ....  Bars 5-8 add a theremin-y thing.
+        There are four pitches and I loosely put them
+        down [[ and will fill in the intervals later possibly ]]
+             1   e   &   a    2   e   &   a   
+               '  ' '.          .'  '' 
+                       '                ' . '
+
+        for convenience here's an approximation with only 8th notes
+             1 e & a 2 e & a   
+              '''.    ' '' 
+                   '      '.'
+     
+
+
+
+
+
+==== 5-8 are still 'intro' but mellower and focus on a melody lead.
+ 
+ ....  The drum line is similar. (Now, it's the only other instrument.)
+       9-10 are same as 1-2.
+
+       See the tab above for the melody part. That's where it starts.
+
+       If playing solo-acoustic, them might sound nice to play 
+       simple E string bass tones on the beat. just an idea.
+ 
+
+==== Verse 1
+        
+     It's pretty dang simple. Basic drumline.
+     The chords are strummed:
+       |                |
+        1 e & a 2 e & a   
+        '     '    '   '    on loop
+
+     The vocal line and rhythm is all you [[stub]]
+
+     The end of the verse has drum rhythm:
+                8 e & a          
+             ch '''             ie, no ride. 
+              s   '    "         
+
+==== Chorus 1
+    
+    The main thing that changes is the synth line from bars 1-2 from
+    the intro comes in, exactly the same.
+
+    It also adds the Intro's/Bridge's theremin-y thing queitly.
+
+==== Bridge
+    
+    It adds back the toned percussive cowbell-y thing. Sounds like it's 
+    the same and I'm not gonna check it. It's not prominent.
+
+    The other thing added is a theremin-y thing:
+    1 e & a 2 e & a 
+ V1 ''' 
+ V2    "'.   ''"'.'   
+
+    Where " are 16th and the . are when it plays the lower note.
+    I hear the lower note as a copy of the main synthesizer
+    in whatever DAW they used. Or a second voice that can slide
+    without stopping the main '" notes ring 
+
+    The theremin-y things continues into the bridge
+
