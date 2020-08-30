@@ -1,0 +1,439 @@
+-> this song definitely sounds great with a percussive thumb xE slap
+
+After looking through the other versions on the site, there were a couple
+of things missing that I wanted to submit, like a full intro tab and
+the complete chords for the chorus.
+ 
+ 
+[Intro]
+ 
+ (C)   (G)        (Em)  (D)        (C)   (G)        (Em)  (D)
+e|----------------|----------------|----------------|----------------|
+B|0h1-0-3---3-----|8-----7---7-----|0h1-0-3---3-----|8-----7---7-----|
+G|0---0-0-----0---|0-----0-----0---|0---0-0-----0---|0-----0-----0---|
+D|----------------|------0---------|----------------|------0---------|
+A|3---------------|7---------------|3---------------|7---------------|
+E|------3---------|----------------|------3---------|----------------|
+ 
+e|----------------|----------------|----------------|----------------|
+B|0h1-0-3---3-----|8--10-8-7--8--7-|0h1-0-3---3-----|8-----7---7-----|
+G|0---0-0-----0---|0---------------|0---0-0-----0---|0-----0-----0---|
+D|----------------|--------0-------|----------------|------0---------|
+A|3---------------|7---------------|3---------------|7---------------|
+E|------3---------|----------------|------3---------|----------------|
+ 
+ 
+[Verse]
+ 
+e|----------------|----------------|
+B|0h1-0-3---3-----|8---8-7---7-----|
+G|0---0-0-----0---|0---0-0---0-0---|
+D|----------------|------0---------|
+A|3---------------|7---------------|
+E|------3---------|----------------|
+ 
+This pattern is slightly different than the intro, most noticeably
+in the second measure. Here it is varied throughout the song:
+* - The note on the G string is often added during the verse, and at times the note on
+B string feels like it is there but is soft.
+@ - Again, the note on the G string is often there, but not always.
+ 
+ 
+[Verse]
+ 
+e|----------------|----------------|
+B|0h1-0-3---3-----|8---8-7---7-----|
+G|0---0-0-----0---|0---0-0---0-0---|
+D|----------------|------0---------|
+A|3---------------|7---------------|
+E|------3---------|----------------|
+ 
+You’ve got a fast car, I want a ticket to anywhere
+Maybe we make a deal, maybe together we can get somewhere
+Anyplace is better. Starting from zero got nothing to lose
+Maybe we’ll make something, but me myself I got nothing to prove
+ 
+ 
+[Interlude]
+ 
+(First four bars of the intro)
+e|----------------|----------------|----------------|----------------|
+B|0h1-0-3---3-----|8-----7---7-----|0h1-0-3---3-----|8-----7---7-----|
+G|0---0-0-----0---|0-----0-----0---|0---0-0-----0---|0-----0-----0---|
+D|----------------|------0---------|----------------|------0---------|
+A|3---------------|7---------------|3---------------|7---------------|
+E|------3---------|----------------|------3---------|----------------|
+ 
+ 
+[Verse]
+ 
+e|----------------|----------------|
+B|0h1-0-3---3-----|8---8-7---7-----|
+G|0---0-0-----0---|0---0-0---0-0---|
+D|----------------|------0---------|
+A|3---------------|7---------------|
+E|------3---------|----------------|
+ 
+You got a fast car, and I got a plan to get us out of here
+I been working at the convenience store
+Managed to save just a little bit of money
+We won’t have to drive too far, just cross the border and into the city
+You and I can both get jobs and finally see what it means to be living
+ 
+ 
+[Interlude]
+ 
+(First four bars of the intro)
+e|----------------|----------------|----------------|----------------|
+B|0h1-0-3---3-----|8-----7---7-----|0h1-0-3---3-----|8-----7---7-----|
+G|0---0-0-----0---|0-----0-----0---|0---0-0-----0---|0-----0-----0---|
+D|----------------|------0---------|----------------|------0---------|
+A|3---------------|7---------------|3---------------|7---------------|
+E|------3---------|----------------|------3---------|----------------|
+ 
+ 
+[Verse]
+
+ 
+
+e|----------------|----------------|
+B|0h1-0-3---3-----|8---8-7---7-----|
+G|0---0-0-----0---|0---0-0---0-0---|
+D|----------------|------0---------|
+A|3---------------|7---------------|
+E|------3---------|----------------|
+ 
+You see my old man’s got a problem he live with the bottle
+That’s the way it is
+He says his body’s too old for working
+I say his body’s too young to look like his
+My mama went off and left him, she wanted more from life
+Than he could give
+I said somebody’s got to take care of him
+So I quit school and that’s what I did
+ 
+ 
+[Interlude]
+ 
+(First four bars of the intro)
+e|----------------|----------------|----------------|----------------|
+B|0h1-0-3---3-----|8-----7---7-----|0h1-0-3---3-----|8-----7---7-----|
+G|0---0-0-----0---|0-----0-----0---|0---0-0-----0---|0-----0-----0---|
+D|----------------|------0---------|----------------|------0---------|
+A|3---------------|7---------------|3---------------|7---------------|
+E|------3---------|----------------|------3---------|----------------|
+
+[Verse]
+
+
+e|----------------|----------------|
+B|0h1-0-3---3-----|8---8-7---7-----|
+G|0---0-0-----0---|0---0-0---0-0---|
+D|----------------|------0---------|
+A|3---------------|7---------------|
+E|------3---------|----------------|
+ 
+You got a fast car, but is it fast enough so we can fly away
+We gotta make a decision, we leave tonight or live and die this way
+ 
+ 
+[Interlude]
+ 
+(First four bars of the intro)
+e|----------------|----------------|----------------|----------------|
+B|0h1-0-3---3-----|8-----7---7-----|0h1-0-3---3-----|8-----7---7-----|
+G|0---0-0-----0---|0-----0-----0---|0---0-0-----0---|0-----0-----0---|
+D|----------------|------0---------|----------------|------0---------|
+A|3---------------|7---------------|3---------------|7---------------|
+E|------3---------|----------------|------3---------|----------------|
+ 
+ 
+[Chorus]
+
+
+(chords defined at the end of this file)
+                               C             Cmaj7      C
+‘Cause I remember when we were driving, driving in your car
+    G                Gadd9           G
+The speed so fast it felt like I was drunk
+Em                Em7            Em
+  The city lights lay out before us
+         Dsus4         D                 Dsus4
+And your arm felt nice wrapped ‘round my shoulder
+    C* Em*     D            Dsus2 D
+And I    had a feeling that I belonged
+    C* Em*     D               Dsus2  D   C*          D*
+And I   had a feeling I could be someone, be someone, be someone
+ 
+ 
+[Interlude]
+ 
+(First four bars of the intro)
+e|----------------|----------------|----------------|----------------|
+B|0h1-0-3---3-----|8-----7---7-----|0h1-0-3---3-----|8-----7---7-----|
+G|0---0-0-----0---|0-----0-----0---|0---0-0-----0---|0-----0-----0---|
+D|----------------|------0---------|----------------|------0---------|
+A|3---------------|7---------------|3---------------|7---------------|
+E|------3---------|----------------|------3---------|----------------|
+ 
+ 
+[Verse]
+ 
+e|----------------|----------------|
+B|0h1-0-3---3-----|8---8-7---7-----|
+G|0---0-0-----0---|0---0-0---0-0---|
+D|----------------|------0---------|
+A|3---------------|7---------------|
+E|------3---------|----------------|
+ 
+You got a fast car and we go cruising to entertain ourselves
+You still ain’t got a job and I work in the market as a checkout girl
+I know things will get better, you’ll find work and I’ll get promoted
+We’ll move out of the shelter, buy a bigger house and live in the suburbs
+ 
+ 
+[Interlude B]
+ 
+(slight difference in last bar)
+e|----------------|----------------|----------------|----------------|
+B|0h1-0-3---3-----|8-----7---7-----|0h1-0-3---3-----|8--10-7---7-----|
+G|0---0-0-----0---|0-----0-----0---|0---0-0-----0---|0-----0-----0---|
+D|----------------|------0---------|----------------|------0---------|
+A|3---------------|7---------------|3---------------|7---------------|
+E|------3---------|----------------|------3---------|----------------|
+ 
+ 
+[Chorus]
+ 
+(chords defined at the end of this file)
+                               C             Cmaj7      C
+‘Cause I remember when we were driving, driving in your car
+    G                Gadd9           G
+The speed so fast it felt like I was drunk
+Em                Em7            Em
+  The city lights lay out before us
+         Dsus4         D                 Dsus4
+And your arm felt nice wrapped ‘round my shoulder
+    C* Em*     D            Dsus2 D
+And I    had a feeling that I belonged
+    C* Em*     D               Dsus2  D   C*          D*
+And I   had a feeling I could be someone, be someone, be someone
+ 
+ 
+[Interlude]
+ 
+(First four bars of the intro)
+e|----------------|----------------|----------------|----------------|
+B|0h1-0-3---3-----|8-----7---7-----|0h1-0-3---3-----|8-----7---7-----|
+G|0---0-0-----0---|0-----0-----0---|0---0-0-----0---|0-----0-----0---|
+D|----------------|------0---------|----------------|------0---------|
+A|3---------------|7---------------|3---------------|7---------------|
+E|------3---------|----------------|------3---------|----------------|
+ 
+ 
+[Verse]
+ 
+e|----------------|----------------|
+B|0h1-0-3---3-----|8---8-7---7-----|
+G|0---0-0-----0---|0---0-0---0-0---|
+D|----------------|------0---------|
+A|3---------------|7---------------|
+E|------3---------|----------------|
+ 
+You got a fast car, and I got a job that pays all our bills
+You stay out drinking late at the bar
+See more of your friends than you do of your kids
+I’d always hoped for better
+Thought maybe together you and me would find it
+I got not plans I ain’t going nowhere
+So take your fast car and keep on driving
+ 
+ 
+[Interlude]
+ 
+(First four bars of the intro)
+e|----------------|----------------|----------------|----------------|
+B|0h1-0-3---3-----|8-----7---7-----|0h1-0-3---3-----|8-----7---7-----|
+G|0---0-0-----0---|0-----0-----0---|0---0-0-----0---|0-----0-----0---|
+D|----------------|------0---------|----------------|------0---------|
+A|3---------------|7---------------|3---------------|7---------------|
+E|------3---------|----------------|------3---------|----------------|
+ 
+ 
+[Chorus]
+ 
+(chords defined at the end of this file)
+                               C             Cmaj7      C
+‘Cause I remember when we were driving, driving in your car
+    G                Gadd9           G
+The speed so fast it felt like I was drunk
+Em                Em7            Em
+  The city lights lay out before us
+         Dsus4         D                 Dsus4
+And your arm felt nice wrapped ‘round my shoulder
+    C* Em*     D            Dsus2 D
+And I    had a feeling that I belonged
+    C* Em*     D               Dsus2  D   C*          D*
+And I   had a feeling I could be someone, be someone, be someone
+ 
+ 
+[Interlude]
+ 
+(First four bars of the intro)
+e|----------------|----------------|----------------|----------------|
+B|0h1-0-3---3-----|8-----7---7-----|0h1-0-3---3-----|8-----7---7-----|
+G|0---0-0-----0---|0-----0-----0---|0---0-0-----0---|0-----0-----0---|
+D|----------------|------0---------|----------------|------0---------|
+A|3---------------|7---------------|3---------------|7---------------|
+E|------3---------|----------------|------3---------|----------------|
+ 
+ 
+[Verse]
+ 
+e|----------------|----------------|
+B|0h1-0-3---3-----|8---8-7---7-----|
+G|0---0-0-----0---|0---0-0---0-0---|
+D|----------------|------0---------|
+A|3---------------|7---------------|
+E|------3---------|----------------|
+ 
+You got a fast car But is it fast enough so you can fly away
+You gotta make a decision You leave tonight or live and die this way
+ 
+ 
+[Outro]
+ 
+e|----------------|----------------|----------------|----------------|
+B|0h1-0-3---3-----|8-----7---7-----|0h1-0-3---3-----|8--10-7---7-----|
+G|0---0-0-----0---|0-----0-----0---|0---0-0-----0---|0-----0-----0---|
+D|----------------|------0---------|----------------|------0---------|
+A|3---------------|7---------------|3---------------|7---------------|
+E|------3---------|----------------|------3---------|----------------|
+ 
+e|----------------|----------------|----------------||
+B|0h1-0-3---3-----|8-----7---7-----|0h1-0-3---------||
+G|0---0-0-----0---|0-----0-----0---|0---0-0---------||
+D|----------------|------0---------|----------------||
+A|3---------------|7---------------|3---------------||
+E|------3---------|----------------|------3---------||
+ 
+ 
+[Chorus]
+ 
+(chords defined at the end of this file)
+                               C             Cmaj7      C
+‘Cause I remember when we were driving, driving in your car
+    G                Gadd9           G
+The speed so fast it felt like I was drunk
+Em                Em7            Em
+  The city lights lay out before us
+         Dsus4         D                 Dsus4
+And your arm felt nice wrapped ‘round my shoulder
+    C* Em*     D            Dsus2 D
+And I    had a feeling that I belonged
+    C* Em*     D               Dsus2  D   C*          D*
+And I   had a feeling I could be someone, be someone, be someone
+ 
+ 
+ 
+ 
+Chords used in the chorus:
+C     x32010  (driving -- car)
+C*    335553  (and I/be someone)
+Cmaj7 x32000
+G     320003
+Gadd9 3x0203
+Em    022000  (city lights -- us)
+Em7   020030
+Em*   779987  (and I...)
+D     x00232
+D*    557775
+Dsus2 x00230 or 557755
+ 
+ 
+ 
+************************************
+ 
+| h  Hammer-on
+ 
+************************************
+
+
+
+"Fast Car"
+
+You got a fast car
+I want a ticket to anywhere
+Maybe we make a deal
+Maybe together we can get somewhere
+Any place is better
+Starting from zero got nothing to lose
+Maybe we'll make something
+Me myself I got nothing to prove
+
+You got a fast car
+I got a plan to get us out of here
+I been working at the convenience store
+Managed to save just a little bit of money
+Won't have to drive too far
+Just 'cross the border and into the city
+You and I can both get jobs
+And finally see what it means to be living
+
+See my old man's got a problem
+He live with the bottle that's the way it is
+He says his body's too old for working
+His body's too young to look like his
+My mama went off and left him
+She wanted more from life than he could give
+I said somebody's got to take care of him
+So I quit school and that's what I did
+
+You got a fast car
+Is it fast enough so we can fly away?
+We gotta make a decision
+Leave tonight or live and die this way
+
+So remember when we were driving driving in your car
+Speed so fast I felt like I was drunk
+City lights lay out before us
+And your arm felt nice wrapped 'round my shoulder
+And I had a feeling that I belonged
+I had a feeling I could be someone, be someone, be someone
+
+You got a fast car
+We go cruising, entertain ourselves
+You still ain't got a job
+And I work in a market as a checkout girl
+I know things will get better
+You'll find work and I'll get promoted
+We'll move out of the shelter
+Buy a bigger house and live in the suburbs
+
+So remember when we were driving driving in your car
+Speed so fast I felt like I was drunk
+City lights lay out before us
+And your arm felt nice wrapped 'round my shoulder
+And I had a feeling that I belonged
+I had a feeling I could be someone, be someone, be someone
+
+You got a fast car
+I got a job that pays all our bills
+You stay out drinking late at the bar
+See more of your friends than you do of your kids
+I'd always hoped for better
+Thought maybe together you and me would find it
+I got no plans I ain't going nowhere
+So take your fast car and keep on driving
+
+So remember when we were driving driving in your car
+Speed so fast I felt like I was drunk
+City lights lay out before us
+And your arm felt nice wrapped 'round my shoulder
+And I had a feeling that I belonged
+I had a feeling I could be someone, be someone, be someone
+
+You got a fast car
+Is it fast enough so you can fly away?
+You gotta make a decision
+Leave tonight or live and die this way 

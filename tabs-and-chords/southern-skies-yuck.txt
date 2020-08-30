@@ -1,0 +1,114 @@
+
+[Intro]
+  
+ D Cmaj7 Cmaj7 Cmaj7 (Repeat)
+
+
+e|-----------------|------------------| |------------0-----|    |------------0-----|
+B|--7---------7-x--|--5---------3-x---| |--3-----------x---|    |--3-3---------x---|
+G|--------7-----x--|--------4-----x---| |--------3-----x---| or |------3-------x---|
+D|------7-------x--|------5-------x---| |--0-------0---x---|    |--0-----0-----x---|
+A|--5-------5---x--|--3-------3---x---| |--------------x---|    |----------1---x---|
+E|-----------------|------------------| |------------------|    |------------------|
+    1   2   3   4     1   2   3   4        1   2   3   4           1   2   3   4    
+
+e|------------0-----|------------0-----|------------0-----|------------------|
+B|--3-----------x---|--3-----------x---|--2-----------x---|--2-----3---5-----|
+G|--------3-----x---|--------3-----x---|--------0-----x---|------------------|
+D|--0-------0---x---|--0-------0---x---|----------2---x---|------------------|
+A|--------------x---|--------------x---|--------------x---|------------------|
+E|------------------|------------------|------------------|------------------|
+    1   2   3   4      1   2   3   4      1   2   3   4      1   2   3   4    
+
+e|------------------|------------------|------------------|------------------|
+B|--6-5-------------|------------1-x---|------------3-x---|-------------5----|
+G|--------7---5-----|--2-----------x---|--4-----------x---|--4---------------|
+D|------------------|--------3-----x---|--------5-----x---|--------5---------|
+A|------------------|----------3---x---|----------5---x---|-----------3------|
+E|------------------|------------------|------------------|------------------|
+    1   2   3   4      
+  Dm                  F                  G                  Cmaj7
+
+
+ an edit. If i transpose it down 3 semitones, its easier to sing (& play kinda..)
+ D -> B      Cmaj7 -> Amaj7      (Amaj7 can be x02120 or x07654)
+ Bb -> G     A -> Gb         Dm -> Bm     F -> D    G -> E.
+  
+ [Verse 1]
+  
+ D       Cmaj7        D            Cmaj7
+ Don't define the apple in your eyes
+ D       Cmaj7        D           Cmaj7
+ Don't confine the emptiness inside
+ D       Cmaj7        D              Cmaj7
+ Don't decide that everything's alright
+ D        Cmaj7       D                 Cmaj7
+ And this time we don't give up the fight
+  
+  
+ [Chorus]
+  
+ Bb           A
+ Unless we're told
+            Dm          F      G
+ I'm just a little bit afraid
+                Cmaj7
+ Of what you'll say to me
+ A          Dm          F      G
+ I'm just a little bit afraid
+                Cmaj7
+ Of what you'll say to me
+  
+  
+ ::Verse 2:: (Same chords as verse 1)
+  
+ Look in town I wear a coat no more
+ Through the cloud A rivalry installed
+ Wondering what you are dreaming now
+ I'm so high while you are on the ground
+  
+  
+ [Chorus]
+  
+          Bb       A
+ Don't be lost and found
+            Dm          F      G
+ I'm just a little bit afraid
+                Cmaj7
+ Of what you'll say to me
+ A          Dm          F      G
+ I'm just a little bit afraid
+                Cmaj7
+ Of what you'll say to me
+  
+  
+ [Bridge]
+  
+ G G G Cmaj7
+  
+ Cmaj7             G
+ Everything you see
+ Cmaj7             F
+ Everything you knew
+        G  Em
+ You're so real
+  
+  
+ [Outro]
+ A          Dm          F      G
+ I'm just a little bit afraid
+                Cmaj7
+ Of what you'll say to me
+ A          Dm          F      G
+ I'm just a little bit afraid
+                Cmaj7
+ Of what you'll say to me
+ A          Dm          F      G
+ I'm just a little bit afraid
+                Cmaj7
+ Of what you'll say to me
+ A          Dm          F      G
+ I'm just a little bit afraid
+                Cmaj7
+ Of what you'll say to me
+ 

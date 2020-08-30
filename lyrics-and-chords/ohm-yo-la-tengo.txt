@@ -1,0 +1,119 @@
+Artist: Yo La Tengo
+ Album: Fade (release date: January 15, 2013)
+ Song: Ohm
+  
+
+
+ Tuning: Open D (DADF#Ad)
+
+ |d---0-0---0-0-0-0-0-0---0-0---0-0-0-0-0-0---|
+ |A---0-0---0-0-0-0-0-0---0-0---0-0-0-0-0-0---|
+ |F#--0-0---0-0-0-0-1-0---0-0---0-0-0-0-1-0---|
+ |D---0-0---0-0-0-0-0-0---0-0---0-0-0-0-0-0---|
+ |A---0-0---0-0-0-0-2-0---0-0---0-0-0-0-2-0---|
+ |D---0-0---0-0-0-0-0-0---0-0---0-0-0-0-0-0---|
+
+ (regardless of retuning, play these chords:)
+   DADF#AD = D
+   DBDGAD (DBDGBD) = Gadd9
+
+ Transposing slightly: 
+   if my highest note needs to hit a relative B then...
+   dropping two notes makes an easy C F+9:
+   x32010, x30211, x32013
+   lyrics go    B4 D5 B4 E5  D5    G4 B4B4 A4
+   (notes: on 3rd-5th strings. First G is xxxx0x)
+
+   I gotta transpose 2 down to B/Eadd9 or even A/Dadd9:
+   x022(2)0 xx2232 x022(2)0 577655
+   then, F#=>D=xxxx3x, A=>F, B=>G#, 
+
+   Ofc, can't hit that low bass D with these transposes or not-tunings.
+ 
+* I have to go F#3-F#4 : C#5 E5 C#5 F#5 C#5, A4 C#5 B4, A F# A C# 
+  That means I have have transposed this down s.t. E->C
+  To play with the C-like fingering (my fav i think) I'd need to tighen
+  every string a semitone.
+
+          my modification:
+         |d----------|---0---0---------|
+         |A----0-----|---0---0---0---0-|  etc with whatever, and
+         |F#---0-1-0-|---0---0---0-1-0-|  the only impt notes are 
+         |D----0-0-0-|-0-0---0---0-0---|  are the low n high D
+         |A----0-2-0-|-0-0---0---0-2---|  string strums.
+         |D----0-----|-0---------0-----|
+                 4     1   2   3   4
+
+   1   2   3   4   1   2   3   4   1   2   3   4   1
+           " '   ' "       "     ' " '   '       '
+         some'  the"     guys   go " on top    some
+           times  bad             out           
+         F# A   F# B      A     D F# F#  E       
+                  (G)
+
+        '        ' "
+      some "    the"     guys   lose                
+         times     good                         
+        D  D     B   D    F#     F#      
+
+   1  2       3      4        1        2      3   4       
+        sometimes       the good guys    lose
+  
+ And, well, that's it! The only other thing I could mention is that if you want to start
+ the song off more quietly, you can play the following melody (I've seen YLT play this in
+ some of their acoustic shows):
+  
+ |d------------------------------|
+ |A------------------------------|
+ |F#-----------------------------|
+ |D------------------------------|
+ |A---5-5--0-2-0---5-5---0-2-0---|
+ |D------------------------------|
+  
+ Other than that, there's the solo, but, as usual, it's pretty hectic, so submit it if
+ you think you might have it!
+  
+ Sometimes the bad guys come out on top,
+ Sometimes the good guys lose
+ We try not to lose our hearts, not to lose our minds
+  
+ Sometimes the bad days retain their grip,
+ Sometimes the good days fade
+ Hurts the brain to think, hurts the head to drink
+  
+ But nothing ever stays the same,
+ Nothing's explained
+ The higher we go, the longer we fly
+ 'Cause this is it for all we know,
+ So say good night to me
+ And lose no more time, no time
+ Resisting the flow
+  
+ I heard you calling from far away,
+ I thought I heard you cry
+ Hadn't the voice to make it right, so I just cried
+  
+ I felt you slipping, slipping away,
+ Before I could even see
+ Try once more, lost my grip, you were gone
+  
+ But nothing ever stays the same,
+ Nothing's explained
+ The longer it takes, the looser the ties
+ 'Cause this is it, for all we know,
+ So say good night to me
+ And lose no more time, no time
+ Resisting the flow
+  
+ (solo)
+  
+ But nothing ever stays the same,
+ Nothing's explained
+ The stronger we wake, the faster we run
+ 'Cause this is it, for all we know,
+ So say good night to me
+ And lose no more time, no time
+ Resisting the flow
+ 
+
+
