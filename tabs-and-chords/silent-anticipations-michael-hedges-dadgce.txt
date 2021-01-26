@@ -1,0 +1,129 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+ #This file is the author's own work and represents their interpretation of the #
+ #song. You may only use this file for private study, scholarship, or research. #
+ #------------------------------------------------------------------------------##
+  
+ Death by Guitar: (or "Silent Anticipations" by Michael Hedges)
+ (butchered transcription intuited by Scott Edgar)
+ -------------------------------------------------------------------
+ Line numbers at far left; string tuning shown for all strings
+ h = harmonic        s = stringslap (generic punishment, no precision
+ H = hammer-on       S = bodysmack     /necessary:just get that bass])
+ p = pulloff to      < = downslide
+ > = upslide
+ r = righthand       Tuning from standard: tune the low E down two
+ l = lefthand        frets to a D and the B string up one fret to
+ ro= rightover       a C. That's all:)
+ lo= leftover
+ ===============================================================
+                        ) I N T R O (
+ ===============================================================
+  E---12h----12-->--14--14--14-->--15--15--15-------12h--12-->--|
+  C---12h-------------------7h----------------------12h---------|
+ 0G---12h-------------------7h----------------------12h---------|
+ 1D---12h-------------------7h----------------------12h---------|
+  A---12h-------------------7h------------------s0--------------|
+  D----0--------------------0-------------------s0--------------|
+  
+  E-(>)-14--14--14--14--14--p--10--12--12--p--10--p--8--p--7----|
+  C-------------7h----------------------------------------------|
+ 0G-------------7h----------------------------------------------|
+ 2D-------------7h----------------------------------------------|
+  A-------------7h----------------------------------------------|
+  D-------------0-----------------------------------------------|
+  
+  E--8--p--7--p--0--H2->-3--p--2--2--H3--p--2--p--0-------------|
+  C--------------0----------------3h-----------------H2->-3-<-2-|
+ 0G-------------------------------3h----------------------------|
+ 3D-------------------------------3h----------------------------|
+  A-------------------------------3h----------------------------|
+  D-------------------------------0-----------------------------|
+  
+  E----------------------------------------------------12->-14--|
+  C--p--0------------------------------------------4h-----------|
+ 0G--------H2->-4-<-2-p-0--------------------------4h-----------|
+ 4D-----------------------H2->-4-<-2-p-0-----------4h-----------|
+  A---------------------------------------H2->-4---4h-----------|
+  D------------------------------------------------0------------|
+  
+  E-p-7-H9--9--p-7-p-5--14-14--p-12-H14->-15--15----------------|
+  C---------7h-------------12h----------------7h----------------|
+ 0G---------7h-------------12h----------------7h---*breath]*----|
+ 5D---------7h-------------12h----------------7h----------------|
+  A---------7h-------------12h----------------7h----------------|
+  D-------------------------0-----------------------------------|
+  
+  E------12h---------------7h-------------------------5h---------|
+  C------12h---------------7h-------------------------5h---------|
+ 0G------12h---------------7h-------------------------5h---------|
+ 6D------12h-loH10---p-12h--0--0--5--5--5------|
+  D-(p)0---0---:----------------lo3->-p-12h--0--0--5--5--5------|
+  
+ roughly repeat the above (more or less) about three times, after which:
+  
+  E---------------------3---------------------------------------|
+  C---------------------3---again, several strums upon this-----|
+ 0G---------------------3---chord, as what whim moves you,------|
+ 8D-lo3--3--3->-10-p-0--1---and then a repeat of line 06, only--|
+  A-lo3--3--3->-10-p-0--1---with an extra 12h arpeggio before --|
+  D-lo3--3--3->-10-p-0--1---the 7h and 5h ones. Listen....------|
+  
+  ...and after THAT....about three more times of line 07, then
+  another of line eight, at which point it takes off from the:
+  
+  
+  
+  E--3-.--5--.--7--.--8--.--7--.--5--.--7--.--8--.--8--The dots-|
+  C--3-.--5--.--7--.--8--.--7--.--5--.--7--.--8--.--8--are for--|
+ 0G--3-.--5--.--7--.--8--.--7--.--5--.--7--.--8--.--8--missing--|
+ 9D--1-.--3--.--5--.--6--.--5--.--3--.--5--.--6--.--8--strums.--|
+  A--1-.--3--.--5--.--6--.--5--.--3--.--5--.--6--.--8--Ympro=---|
+  D--1-.--3--.--5--.--6--.--5--.--3--.--5--.--6--.--8--vyze]]---|
+  
+ After all this, one starts the mad bury-steel-splinters-in-yo-
+ thumb slide parts, thusly:
+  
+  E-----------0---------0---------0--------3-----5--------------|
+  C-----------0---------0---------0--------3-----5--------------|
+ 1G-----------0---------0---------0--------3-----5--------------|
+ 0D--lo3-->--10--3-->--10--3-->--10--p--0--1-->--3--------------|
+  A--lo3-->--10--3-->--10--3-->--10--p--0--1-->--3--------------|
+  D--lo3-->--10--3-->--10--3-->--10--p--0--1-->--3--------------|
+  
+ This also repeats about three times, then follows another line 09,
+ then another set of these, and then...oh, eventually a crash'n'burn
+ variation on line 06 with lots of offkey harmonics, screeching to a
+ halt with a ferocious hammer-on over the neck with the left hand
+ on a 333000 chord, after which collapse from oxygen depletion is in
+ order, and makes a touching finale.
+ *    *      *           *     **    *     *     **    **    *
+      So...let's see where I can further confuse the issue....
+ Line 03: the 3h is an octave up from the 7h and sounds wonderful,
+ if it can be coaxed into being. All those initial harmonic chords
+ are nice slightly arpeggiated, although just a fist-impact (*POW]*)
+ will do as well.
+    Line 05: the X7h7h7h7h15 is indeed a bit of a stretch, so I
+ often use the other harmonic node (don't ask at which fret, my
+ hyperoctaves aren't too great) which involves a flamenco-style
+ right-handed strum with the heel of the thumb brushing the
+ strings at the requisite fret to get the harmonic. It's about
+ fret 18 or 20 or something; two before the hole on my machine.
+     Line 06: the harmonics can also be arpeggiated; he does them
+ both ways, since that line more or less crops up more than once.
+     Line 07: He accompanies the slap against the body with a
+ short strum, or something. It comes out slightly different when
+ I play it; too much intuition fluxing it up, I guess. He frets the
+ slide from lo3 to pulloff to the 12h (or whatever sounds good; I
+ do it a bit differently, and this may not be exact...prob'ly ain't)
+ with his left index finger over the neck, then hits the 555555
+ from under the neck as a regular chord.
+     Line 08: The lo3's (and following slides later on) are fretted
+ over the neck with the left thumb. Most of the overneck hammer-ons
+ are pinch-hit with the left index and thumb.
+     Line 10: All the 333000's preceeding a slide to 10's are fretted
+ over the neck with the left thumb. Get ready for the smoke to fly;
+ I still can't play this fast enough. I think he must oil his strings:)
+ Painstakingly handcrafted by
+ 
+
+

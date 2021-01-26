@@ -1,0 +1,185 @@
+------------------------------------------------------------------------------
+                             Babylon (acoustic) – David Gray
+-------------------------------------------------------------------------------
+ 
+Tabbed by: Rozy
+ 
+Tuning: Drop d (EADGBd)
+Capo 1st Fret
+ 
+As I wish someone would have explained how to drop a string when I was starting out…
+To do a drop d, tune the top e (1st string) down while holding the B (2nd string)
+on the 3rd fret.  When the two match, you're in business. If new to guitar, a perfect
+practice song for hammer/pull picking and strumming. At the first rotation of chords per
+verse, he strums the D2 and does a single little hammer/pull on the B string - 2h3p2.
+It needs proper timing, or you can simply ignore and it sounds great regardless.
+ 
+ 
+Chords:
+In relation to capo
+ 
+D2      000220
+G2      320030
+A       002220
+Em      022000
+D       000230
+G       320035
+ 
+ 
+Fig A:
+ 
+d|----0----------------0---|
+B|----2-2h3p2---2h3----3---|
+G|----2-------2--------0---|
+D|----0----------------0---|
+A|----0----------------2---|
+E|----x----------------3---|
+ 
+ 
+[Intro]
+Fig A  x2
+ 
+[Verse 1]
+D2
+Friday night I'm going nowhere
+G2                                Fig A
+All the lights are changing green to red
+ 
+D2
+Turning over TV stations
+G2                           Fig A
+Situations running through my head
+ 
+D2
+Looking back through time
+              G2
+You know it's clear that I've been blind
+               Fig A
+I've been a fool
+ 
+D2
+To open up my heart
+                G2                                  Fig A
+To all that jealousy, that bitterness, that ridicule
+ 
+ 
+d|----------------1---|
+B|----------------0---|
+G|----------------0---|
+D|----------------2---|
+A|----------------2---|
+E|---3--2--0------x---|
+ 
+Saturday I'm running wild
+And all the lights are changing red to green
+ 
+Moving through the crowd I'm pushing
+Chemicals all rushing in my bloodstream
+ 
+Only wish that you were here
+You know I'm seeing it so clear, I've been afraid
+ 
+To show you how I really feel
+Admit to some of those bad mistakes I've made
+ 
+[Chorus]
+D               A
+If you want it
+                Em
+Come and get it
+             A    D
+Crying out loud
+                  A
+The love that I was
+              Em
+Giving you was
+          G    D
+Never in doubt
+                    A
+Let go of your heart
+                   Em
+Let go of your head
+            A   D
+And feel it now
+                    A
+Let go of your heart
+                   Em
+Let go of your head
+           A
+And feel it now
+ 
+         Fig A
+Babylon,
+         Fig A
+Babylon,
+         Fig A
+Babylon
+ 
+[Verse]
+Sunday all the lights of London
+Shining sky is fading red to blue
+ 
+I'm kicking through the Autumn leaves
+And wondering where it is you might be going to
+ 
+Then I'm turning back for home
+You know I'm feeling so alone, I can't believe
+ 
+Climbing on the stair
+I turn around to see you smiling there, In front of me
+ 
+And well now…
+ 
+[Chorus]
+If you want it
+Come and get it
+Crying out loud
+The love that I was
+Giving you was
+Never in doubt
+ 
+Let go of your heart
+Let go of your head
+And feel it now
+ 
+Let go of your heart
+Let go of your head
+And feel it now
+ 
+Let go of your heart
+Let go of your head
+And feel it now
+ 
+Let go of your heart
+Let go of your head
+And feel it now
+ 
+       Fig A
+Babylon,
+       Fig A
+Babylon,
+       Fig A
+Babylon,
+       Fig A
+Babylon
+       Fig A
+Babylon
+ 
+ 
+[Outro]
+ 
+d|----0-----------0-----------0-------------0--|
+B|----2-2h3p2-----2-2h3p2-----2-2h3p2-------3--|
+G|----2-------2---2-------2---2-------2-----2--|
+D|----0-----------0-----------0-------------0--|
+A|----0-----------0-----------0-------------0--|
+E|----x-----------x-----------x-------------x--|
+ 
+ 
+************************************
+ 
+| x  Dead note
+| h  Hammer-on
+| p  Pull-off
+ 
+************************************

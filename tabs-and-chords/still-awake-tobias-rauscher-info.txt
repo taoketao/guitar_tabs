@@ -1,0 +1,13 @@
+
+Tobias Rauscher - Still Awake (Original) - YouTube
+https://www.youtube.com/watch?v=G4cJ4wviwS8
+
+The tab file is   ../other/Still_Awake_(ver_2).gp3
+ (  ~/Desktop/media/music/_tabs/other/Still_Awake_(ver_2).gp3 )
+
+Tuning 
+
+D#  G  D  G  A# D
+Eb  G  D  G  Bb D
+compared to standard tuning:    -1 -2  0  0 -1 -2
+tune to this from DADGAd:       +1 -2  0  0 +1  0
