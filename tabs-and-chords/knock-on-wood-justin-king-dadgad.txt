@@ -210,3 +210,13 @@ D|---4h5h7-----------------------------------|---4---------5--------------------
 When you strum the last harmonics put your hand on the head of the guitar and push forward...
 This will bend the neck forward detuning the strings to give it a lower pitch
 
+
+
+
+
+e|------------7p0--5p0---- 
+B|------------------------ 
+A|---7/9------7p0--5p0---- ...
+D|---7/9---4------------4- ...
+A|------------5----------- 
+D|---4h5h7---------------- 

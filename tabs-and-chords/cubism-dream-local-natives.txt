@@ -129,7 +129,7 @@ uses same line as intro
  |       The    can vas  was     free              A   gift  good   motherGaveTo    Me                We
  |       E      E    D    C       G4               C   F     C      E E    F  E\D   E\D                C
  | 
- | Jo   -o-    -o-  -ooooo-            -ked        at  how     they talked so differen        tly
+ | Jo   -o-    -o-  -ooooo-            -ked        at  how     theyTalkedSo dif feren        tly
    C    \A4    /E5~  D C A                         C~  C        A4  A   G4   F4  A#           A
 
 
