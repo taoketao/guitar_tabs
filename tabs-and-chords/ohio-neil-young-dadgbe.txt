@@ -1,0 +1,89 @@
+Notes :
+Political activism in the rock world was already at a peak in 1970 when president Richard
+Nixon ordered the Ohio National Guard to Kent State University to confront Vietnam War
+student protestors. Young wrote this huge hit and poignant anti-war rallying cry after
+learning the outcome of the tragic event.
+ 
+This acoustic version is taken off the Solo Trans video. It uses the "Dropped D" tuning,
+though you can play it in the standard tuning. (That's what I always do with this song).
+Anyway, I made  some corrections in the intro. I tabbed also an alternative intro that
+sounds very good on an acoustic guitar. It's just a kind of progression on the normal
+intro. For the normal intro, see the verse. In the second and fourth line of the
+chorus you can replace the Gm7(II) and C8th just by playing the same chords as the first
+and the third line if you think the special chords are too difficult.
+ 
+ 
+CHORDS used in this song:
+ 
+        DADGBD                      DADGBD
+ 
+D5      000320          Gm7 (II)    550030
+Gm7 (I) 353363
+Fmaj7   x03210          D10th       12 10 10 00 xx xx
+C       x32010          C8th        10 xx 10 00 08 xx
+ 
+ 
+[Intro]
+ 
+    D5          F    C          D5             F     C
+D|---------------------------|-----------------------------|
+B|-----3------3--------------|-------3------3--------------|
+G|-----0h2--2---0----0----0--|-------0h2--2----0-----0-----|
+D|-----------------3---------|--------------------3--------|
+A|-----------------------3---|--------------------------3--|
+D|--0------------------------|--0--------------------------|
+ 
+ 
+[Verse]
+ 
+    D5               F      C              D5               F         C
+D|--------------------------------------|------------------------------------|
+B|-------3------3----3------------------|-------3------3----3----------------|
+G|-------0h2----2----0------0--------0--|-------0h2----2----0---------0------|
+D|--0------------------3----------------|--0---------------------3-----------|
+A|------------------------------3-------|---------------------------------3--|
+D|--------------------------------------|------------------------------------|
+ 
+    Tin soldiers and   Nixon coming,        We're finally   on our    -   own
+    This Summer I hear the drumming,        Four  dead in   -    O -  hi - o
+ 
+ 
+[Chorus]
+ 
+Gm7(I)                 C
+  Gotta get down to it, soldiers are cutting us down
+Gm7(II)                        C8th
+  Should have been done long ago
+Gm7(I)                     C
+  What if you knew her and, found her dead on the ground
+Gm7(II)                    C8th
+  How can you run when you know?
+D10th
+ 
+(Play Intro)
+ 
+ 
+[Verse]
+ 
+La la la la, la la, la la
+La la la la, la la, la
+La la la la, la la, la la
+La la la la, la la, la
+ 
+D10th or rather D5
+ 
+[Chorus]
+ 
+Repeat VERSE 1
+ 
+Repeat last line a few times
+ 
+You can finish the by replacing the last note of the main riff by playing a C strum:
+ 
+    D5         F     C         D5       F     C
+D|---------------------------|----------------------0---|
+B|-----3----3--3-------------|-----3----3--3--------1---|
+G|-----0h2--2--0-----0----0--|-----0h2--2--0-----0--0---|
+D|----------------3----------|----------------3-----2---|
+A|---------------------3-----|----------------------3---|
+D|--0------------------------|--0-------------------0---|

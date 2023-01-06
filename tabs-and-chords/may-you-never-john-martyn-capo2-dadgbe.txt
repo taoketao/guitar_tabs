@@ -1,0 +1,113 @@
+Artist: John Martyn
+Song: May you never
+Tabbed by: Matthew Beckers
+E-mail: matthewlbeckers@gmail.com
+ 
+Tuning: Drop D (capo on 2nd fret)
+ 
+An important part of this song is the rhythmic thumb tap (noted as t) against the D string that John makes on
+every other beat. It never relinquishes, even when you need to be picking a note at the same time.
+This is done by "flicking" the string you want to play with your index finger(noted as [#])
+as you bring your thumb down on the D string.
+ 
+The song is in 4:4 timing. However, apart from the correctly placed bar boundaries, the tab spacing does not
+strictly show timing between notes. Instead, I have tried to space it along to the lyrics as perfectly as
+possible. You should be able to get the timing down by listening to the record and the way that John is
+singing on it.
+ 
+I have labelled the alternative lyrics for each section as (1) and(2). The following is the structure of the
+whole song. Parts I and II for the CHORUS and VERSE are played one after the other except for the final
+chorus.
+ 
+CHORUS (1) - VERSE (1) - POST-VERSE
+CHORUS (1) - VERSE (2) - POST-VERSE
+CHORUS (1) - VERSE (1) - POST-VERSE
+CHORUS (2) - CHORUS (1)
+CHORUS (2-I) - OUTRO - FIN
+ 
+[Chorus 1]
+(Start here)
+e|---------------|---------------------|----------------|------------------------|-----0-[0]h2p0-----------|
+B|------10---8---|-3---------3-------3-|------------3---|----2---2------3----3---|-3---3-----------3-------|
+G|---------------|-2-----------------0-|----------------|----2---2------2----2---|-2---2-------------2-----|
+D|------11---9---|-0-------0---------0-|----------0-----|----2---2------4----5---|-0-------------0-------0-|
+A|-0-------------|-------------------2-|-(2)----2-------|-0------------(0)-------|-------------------------|
+D|---------------|-0-t---0------t------|-----t--------t-|-------------t--------t-|-0------t------------t---|
+1) And  may  you   never   lay  your head    down         without     a hand to    hold          And may you
+2)      May  you   never   lose your temper          if  you get in   a bar room   fight         And may you
+ 
+[Chorus 2]
+e|----------------|--------------------|-------------------|-----------------|
+B|-3---------3----|-2--------3--2----3-|-----------3-----3-|-3---------3-3---|
+G|-0--------------|-2--------2--2----2-|---[2]p0---0-----2-|-2-[2]p0---0-2---|
+D|-0-------0------|-2--2-----2--2----0-|-----------------0-|(0)--------------|
+A|-2-----2--------|-0------0-----------|---------2---0h2---|---------0-------|
+D|---t---------t--|------t---------t-0-|----t----------t-0-|----t----------t-|
+1) never make your  bed out  in the  cold
+2) never lose your  woman    over    night 
+ 
+[Verse] (x2)
+e|-------------------------------|-----------------------|---------------------------------|-----------------|
+B|-2-------------3---------------|-3----------3----------|-3------------------3----------3-|-3---------3-3---|
+G|-2-------------2---------------|-2----------2----------|-2----[2]p0---------0----------2-|-2-[2]p0---0-2---|
+D|-2-------------4---------------|-5----------4----------|-0-----------------------------0-|(0)--------------|
+A|-0----0------0-------0-------0-|-----0-----(0)-0h4-----|------------2-----------0h2------|---------0-------|
+D|---(t)---t---------------t-----|---------t--------t-(0)|-------t------------------t----0-|----t----------t-|
+1) Just like a   great and strong  brother of mine     you know  that I'll    love you   true  And you
+-- never talk    dirty           behind my    back and I   know  that there's those that do
+2) Just like a   good  and close   sister  to me       you know  that  I'll   love you   true  And you
+-- hold no       blade        to stab me in the back and I know that there's  some  that do                  
+ 
+[Post-verse 1]
+e|--------------------------------|---------------------|--------------0------------0-------0----|
+B|-2----------------2-------------|---2----2-----2------|------------3--------3-----------3------|
+G|-2----------------2-------------|---2----2-----2------|-------0--------------------------------|
+D|-2--2-------------2--2----------|---2----2-----2------|-------0--------------------------------|
+A|-0------------0---------------0-|--------------0--0---|-2-------2--------2-----------2---------|
+D|--------t----------------t------|-----------t-------t-|----------------t-----------------------|
+Oh please won't you please won't you  bear it in mind     Love is a lesson to learn in our time
+ 
+[Post-verse 2]
+e|--------------------------------------|-----------------------|---------------------|-----------|
+B|-----2----------------3---------------|-3----------3----------|-3-----------3-----3-|-3---------|
+G|-----2----------------2---------------|-2----------2----------|-2---[2]p0---0-----2-|-2-[2]p0---|
+D|-----2----------------4---------------|-5----------4----------|-0-----------------0-|(0)--------|
+A|-0------0---------0------0---------0--|------0----(0)--0------|-----------2---0h2---|---------0-|
+D|------------t----------------t--------|---------t---------t-0-|------t----------t-0-|----t------|
+   Now please won't you please won't you  bear it in mind     for me                            (to chorus)
+ 
+[Outro]
+e|----------------|--------------------|-------------------|-----------------|
+B|-3---------3----|-2--------3--2----3-|-----------3-----3-|-3---------3-----|
+G|-0--------------|-2--------2--2----2-|---[2]p0---0-----2-|-2-[2]p0---0-----|
+D|-0-------0------|-2--------2--2----0-|-----------------0-|(0)--------------|
+A|-2-----2--------|-0--0---0-----------|---------2---0h2---|---------2---0h2-|
+D|----t--------t--|------t---------t-0-|----t----------t-0-|----t----------t-|
+   never lose your  woman    over    night
+ 
+e|---------------------|-----------------|
+B|-3-----------3-----3-|-3---------3-----|
+G|-2---[2]p0---0-----2-|-2-[2]p0---0-----|
+D|-0-----------------0-|(0)--------------|[x3 then FIN]
+A|-----------2---0h2---|---------2---0h2-|
+D|-0----t----------t-0-|----t----------t-|
+ 
+[Fin]
+e|----------------------------------|
+B|-----------------------------3----|
+G|--2p0---0-------------------2-----|
+D|--0---4---2p0---0-------0--0------|
+A|--------------4---2p0-------------|
+D|----------------------4---0-------|
+ 
+ 
+************************************
+ 
+| h   hammer-on
+| p   pull-off
+| t   thumb tap. These are all noted on the D string, but at times it might be easier to slap
+      the A string instead - personal preference!
+|[#]  flick this string!
+|(#)  optional note
+ 
+************************************
