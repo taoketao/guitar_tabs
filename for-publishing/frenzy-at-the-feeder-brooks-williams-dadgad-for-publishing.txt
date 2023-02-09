@@ -1,19 +1,19 @@
 
 Frenzy at the Feeder by Brooks Williams
-Based mostly on YouTube lesson: https://www.youtube.com/watch?v=ahpz-Mqihok
-and also on his Home Acoustic version: https://www.youtube.com/watch?v=1fyVukygFME
-and on the Little Lion studio verion.
-
    
 Tuning: DADGAD 
 Capo: none
 BPM: 104-112
 Time signature: 2/4
 All notes are sequenced to precise timings accoring to measure-marking apostrophes ' 
-Travis-style picking is recommended
+Travis-style picking is recommended. 
+Based mostly on YouTube lesson: https://www.youtube.com/watch?v=ahpz-Mqihok
+  and also on his Home Acoustic version: https://www.youtube.com/watch?v=1fyVukygFME
+  and on the Little Lion studio verion.
 Feel free to adapt this tab according to a copyleft GNU Affero GPLv3 license 
-    (https://www.gnu.org/licenses/agpl-3.0.en.html)
-Contact me via my website taoketao.github.io with subject line "UG Guitar Tab: Frenzy"
+  (https://www.gnu.org/licenses/agpl-3.0.en.html)
+Problems? Contact me via my site taoketao.github.io with subject "UG Guitar Tab: Frenzy"
+This song is easier to play than it sounds once you get the hang of the travis picking.
 Enjoy! DJ Plobs / morgan ~ morgan
 
 
@@ -87,9 +87,9 @@ A|-----------------------------------------------------------------
 D|-0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---  
 
    '       '       '       '       '       '       '       '   
-d|---7------10-------5-------7-------3-------5-----232--------00---  
-A|---5-------8-------3-------5-------1-------3--------3-0------0---  
-G|---7------10-------5-------7-------3-------5-------------02--2---  
+d|---7------10-------5-------7-------3-------5-----232--------00-------------------  
+A|---5-------8-------3-------5-------1-------3--------3-0------0-------------------  
+G|---7------10-------5-------7-------3-------5-------------02--2-------------------  
 D|---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0-0-0---0---0---0---0-  
 A|-------------------------------------------------------------0-------------------  
 D|-0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---0---  
@@ -126,12 +126,12 @@ D|-----0-------0-------0-------0---------------------------0-------
 A|---------------------------------------------------------0------- 
 D|-0-------0-------0-------0-------0---0---0---0---0---0---0------- 
 
-d|-----0-------0-------0-------0---
-A|-----0-------0-------0-------0---
-G|-----2-------2-------2-------2---
-D|-----0-------0-------0-------0---
-A|---------------------------------
-D|-0-------0-------0-------0-------
+d|-----0-------0-------0-------0--- 
+A|-----0-------0-------0-------0---  add to taste,
+G|-----2-------2-------2-------2---  strumming offbeats 
+D|-----0-------0-------0-------0---  with fingernails
+A|--------------------------------- 
+D|-0-------0-------0-------0------- 
 
 
 
