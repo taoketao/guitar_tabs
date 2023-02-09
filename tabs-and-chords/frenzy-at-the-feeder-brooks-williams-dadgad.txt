@@ -132,7 +132,10 @@ Rhythm: still in 2/4: dotted sixteenth, dotted    false harmonic
 sixteenth, sixteenth-tied-with-quarter.          just above 10th fret
 (it's the 332 plus 8 rest)             
 
-Repeat again from beginning: Do lines 1-16 once
+***
+THEN Repeat again from beginning: Do lines 1-16 once
+***
+
 Skip to 49 and do that once
    '        '        '        '        '                '
 d|-7p5p4p0--7p5p4p0--7p5p4p0--7p5p4p0--2h3p2------0-----2h3p2------0------     \
@@ -226,3 +229,4 @@ D|(0)0----------<15>--------------------------|
     even though all the strings except high A will actually 
     normal. Keep bending from 3^5 (which turns into a 15^17) 
     through the harmonic strum. Time to taste.
+
