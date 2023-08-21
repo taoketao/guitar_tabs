@@ -1,6 +1,6 @@
 adapted by morgan @ some obviously, painfully incorrect notes
   and adjusted for tones (diff strings, ...)
-And, notation added to for EADGBE or DADGBE tunings. 
+And, notation added to for EADGBE or DADGBE, and DADGAD  tunings. 
 
 
 Cortez the Killer - Neil Young and Crazy Horse
@@ -296,4 +296,10 @@ Cortez the Killer - Neil Young and Crazy Horse
   *******************************************************
  
 
-
+    Em7      D     Am7
+d|--2-2-----0-0-----0---------------------------------------------------
+A|--5-2-----0-5-----3---------------------------------------------------
+G|--4-4-----2-2-----0---------------------------------------------------
+D|--5-5-----4-4-----0---------------------------------------------------
+A|--2-2-----0-0-----0---------------------------------------------------
+D|--2-2-----0-0----3-0--------------------------------------------------
