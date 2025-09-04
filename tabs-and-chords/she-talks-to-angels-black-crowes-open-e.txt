@@ -1,0 +1,269 @@
+tuning - E B E G# B E aka DADF#AD-capo-2 (open d)
+----------------------------------------------------------------------
+                  She Talks To Angels - Black Crowes
+----------------------------------------------------------------------
+ 
+Transcribed by Derreck
+ 
+ 
+This is an awesome song on the acoustic, sounds good alone and even better with
+two guitars. You'll have to listen to the song for the rhythm (obviously). If you're a
+beginner, e-mail me and I'll send you a recording of how I do the intro and chorus
+to get you rolling.
+ 
+This song is in Open E tuning. Tune your 5th string (2nd from top) up a whole step
+from A to B, 4th string up a whole step from D to E, and your 3rd string a half
+step from G to G#.
+ 
+      h  - hammer on
+      p  - pull off
+      b  - bend string
+      r  - release bend
+      s  - slide
+      v  - downward strum
+      ^  - upward strum
+      NH - Natural Harmonics
+ 
+ 
+[Intro]
+ 
+E |-------0---------0---------0-------------0-----------------------|
+B |-4s5-----4s2-0-----------0---------------0-----------------------|
+G#|---------------------0h1-----1---1p0-----0-----------------------|
+E |-------------------------------------0---0-----------------------| x2
+B |-----------------------------------------0-----------------------|
+E |-----------------------------------------0-----------------------|
+ 
+    v ^ v  v v ^ v v v v      NH   NH  v v ^ v v v v
+E |-0-0-0--0-0-0-0-0-0-0------12---7---0-0-0-0-0-0-0----------------|
+B |-0-0-0--0-0-0-0-0-0-0------12---7---0-0-0-0-0-0-0----------------|
+G#|-0-0-0--0-0-0-1-0-1-0------12---7---0-0-0-1-x-1-0----------------|
+E |-0-0-0--0-0---2-0-2-0------12---7---0-0---2-x-2-0----------------|
+B |-0-0-0--0-----0-0-0-0------12---7---0-----0-0-0-0----------------|
+E |-0-0-0--0-----0-0-0-0------12---7---0-----0-0-0-0----------------|
+ 
+                                  v v ^ v v v v
+E |-------------------------------0-0-0-0-0-0-0---------------------|
+B |-------------2p0---------0-----0-0-0-0-0-0-0---------------------|
+G#|-----0-3p0---------3p0---------0-0-0-1-x-1-0---------------------|
+E |-2s4-------0-----0-----0---2-0-0-0---2-x-2-0---------------------|
+B |-------------------------------0-----0-0-0-0---------------------|
+E |-------------------------------0-----0-0-0-0---------------------|
+ 
+                                  v v v ^ v v v v
+E |-0---0---0---0---0---0---0---0-0-0-0-0-0-0-0-0-------------------|
+B |---5---4-----------------------0-0-0-0-0-0-0-0-------------------|
+G#|-----------5---3---1---0-------0-0-0-0-1-0-1-0-------------------|
+E |---------------------------0---0-0-0---2-0-2-0-------------------|
+B |---------------------------------0-----0-0-0-0-------------------|
+E |---------------------------------0-----0-0-0-0-------------------|
+ 
+ 
+[Verse]
+ 
+                               v ^ v  v v ^ v v v v
+E |----------------------------0-0-0--0-0-0-0-0-0-0-----------------|
+B |----------------------------0-0-0--0-0-0-0-0-0-0-----------------|
+G#|----------------------------0-0-0--0-0-0-1-x-1-0-----------------|
+E |----------------------------0-0-0--0-0---2-x-2-0-----------------|
+B |----------------------------0-0-0--0-----0-0-0-0-----------------|
+E |----------------------------0-0-0--0-----0-0-0-0-----------------|
+  She never mentions the word addiction
+ 
+                               v ^ v  v v ^ v v v v
+E |----------------------------0-0-0--0-0-0-0-0-0-0-----------------|
+B |----------------------------0-0-0--0-0-0-0-0-0-0-----------------|
+G#|----------------------------0-0-0--0-0-0-1-x-1-0-----------------|
+E |----------------------------0-0-0--0-0---2-x-2-0-----------------|
+B |----------------------------0-0-0--0-----0-0-0-0-----------------|
+E |----------------------------0-0-0--0-----0-0-0-0-----------------|
+  In          certain        company
+ 
+                               v ^ v  v v ^ v v v v
+E |----------------------------0-0-0--0-0-0-0-0-0-0-----------------|
+B |----------------------------0-0-0--0-0-0-0-0-0-0-----------------|
+G#|----------------------------0-0-0--0-0-0-1-x-1-0-----------------|
+E |----------------------------0-0-0--0-0---2-x-2-0-----------------|
+B |----------------------------0-0-0--0-----0-0-0-0-----------------|
+E |----------------------------0-0-0--0-----0-0-0-0-----------------|
+  Yes, she'll tell you shes an orphan
+ 
+                               v ^ v  v v ^ v v v v
+E |----------------------------0-0-0--0-0-0-0-0-0-0-----------------|
+B |----------------------------0-0-0--0-0-0-0-0-0-0-----------------|
+G#|----------------------------0-0-0--0-0-0-1-x-1-0-----------------|
+E |----------------------------0-0-0--0-0---2-x-2-0-----------------|
+B |----------------------------0-0-0--0-----0-0-0-0-----------------|
+E |----------------------------0-0-0--0-----0-0-0-0-----------------|
+  After   ya   meet    her   family
+ 
+ 
+[Chorus]
+(No lyrics in the first chorus)
+ 
+                    v v v ^ v v v v v v v ^ v v v v v v v ^ v v v v
+E |-0-0-0-0-0-0-0-0-7-7-7-7-7-7-7-7-5-5-5-5-5-5-5-5-0-0-0-0-0-0-0-0---|
+B |-5-5-5-5-5-5-5-5-7-7-7-7-7-7-7-7-5-5-5-5-5-5-5-5-0-0-0-0-0-0-0-0---|
+G#|-0-0-0-0-0-0-0-0-7-7-7-7-7-7-7-7-5-5-5-5-5-5-5-5-0-0-0-0-1-x-1-0---|
+E |-0-0-0-0-0-0-0-0-7-7-7---7-7-7-7-5-5-5---5-5-5-5-0-0-0---2-x-2-0---|
+B |-0-0-0-0-0-0-0-0-7-7-----7-7-7-7-5-5-----5-5-5-5-0-0-----0-0-0-0---|
+E |-0-0-0-0-0-0-0-0-7-7-----7-7-7-7-5-5-----5-5-5-5-0-0-----0-0-0-0---|
+ 
+                    v v v ^ v v v v v v v ^ v v v v v v v ^ v v v v
+E |-0-0-0-0-0-0-0-0-7-7-7-7-7-7-7-7-5-5-5-5-5-5-5-5-0-0-0-0-0-0-0-0---|
+B |-5-5-5-5-5-5-5-5-7-7-7-7-7-7-7-7-5-5-5-5-5-5-5-5-0-0-0-0-0-0-0-0---|
+G#|-0-0-0-0-0-0-0-0-7-7-7-7-7-7-7-7-5-5-5-5-5-5-5-5-0-0-0-0-1-x-1-0---|
+E |-0-0-0-0-0-0-0-0-7-7-7---7-7-7-7-5-5-5---5-5-5-5-0-0-0---2-x-2-0---|
+B |-0-0-0-0-0-0-0-0-7-7-----7-7-7-7-5-5-----5-5-5-5-0-0-----0-0-0-0---|
+E |-0-0-0-0-0-0-0-0-7-7-----7-7-7-7-5-5-----5-5-5-5-0-0-----0-0-0-0---|
+ 
+    NH  NH v v ^ v v v v
+E |-12--7--0-0-0-0-0-0-0----------------------------------------------|
+B |-12--7--0-0-0-0-0-0-0----------------------------------------------|
+G#|-12--7--0-0-0-1-0-1-0----------------------------------------------|
+E |-12--7--0-0---2-0-2-0----------------------------------------------|
+B |-12--7--0-----0-0-0-0----------------------------------------------|
+E |-12--7--0-----0-0-0-0----------------------------------------------|
+ 
+ 
+[Verse 2]
+(Same strumming pattern)
+ 
+She paints her eyes as black as night now
+She pulls those shades down tight
+Yea she gives a smile when the pain comes
+The pain gonna make everything alright
+ 
+ 
+[Chorus]
+(Start in the middle of the 050000)
+ 
+She says she talks to angels, they call her out by her name
+Oh yea she talks to angels, says they call her out by her name
+ 
+ 
+[Verse 3]
+ 
+She keeps a lock of hair in her pocket
+She wears a cross around her neck
+Yes the hair is from a little boy
+And the cross from someone she has not met.....not yet
+ 
+ 
+[Chorus]
+ 
+She says she talks to angels, says they all know her name
+Oh yea she talks to angels, says they call her out by her name
+ 
+(Now skip the natural harmonics,
+ and go straight to the Bridge, which is something like this)
+ 
+[Bridge]
+(Sing while you're strumming the A)
+ 
+                        A
+E |-0-0-0-0-0-0-0--5-5-5-5-5-5-0-0-0-0-0-0------------------------|
+B |-5-5-5-5-5-5-5--5-5-5-5-5-5-0-5-5-5-5-5------------------------|
+G#|-0-0-0-0-0-0-0--5-5-5-5-5-5-0-0-0-0-0-0------------------------|
+E |-0-0-0-0-0-0-0--5-5-5-5-5-5-0-0-0-0-0-0------------------------|
+B |-0-0-0-0-0-0-0--5-5-5-5-5-5-0-0-0-0-0-0------------------------|
+E |-0-0-0-0-0-0-0--5-5-5-5-5-5-0-0-0-0-0-0------------------------|
+ 
+ She don't know no lover
+ None that I've ever seen
+ To her that ain't nothin'
+ But to me, it means, everything. (on this one, stretch the A out
+                                                    with the words)
+ (Replace the 050000's with the main riff here)
+   v v v ^ v v v v    NH  NH v v v ^ v v v v
+E |-0-0-0-0-0-0-0-0---12--7--0-0-0-0-0-0-0-0----------------------|
+B |-0-0-0-0-0-0-0-0---12--7--0-0-0-0-0-0-0-0----------------------|
+G#|-0-0-0-0-1-x-1-0---12--7--0-0-0-0-1-0-1-0----------------------|
+E |-0-0-0---2-x-2-0---12--7--0-0-0---2-0-2-0----------------------|
+B |-0-0-----0-0-0-0---12--7--0-0-----0-0-0-0----------------------|
+E |-0-0-----0-0-0-0---12--7--0-0-----0-0-0-0----------------------|
+ 
+                                  v v ^ v v v v
+E |-------------------------------0-0-0-0-0-0-0-------------------|
+B |-------------2p0---------0-----0-0-0-0-0-0-0-------------------|
+G#|-----0-2p0---------2p0---------0-0-0-1-x-1-0-------------------|
+E |-2s4-------0-----0-----0---2-0-0-0---2-x-2-0-------------------|
+B |-------------------------------0-----0-0-0-0-------------------|
+E |-------------------------------0-----0-0-0-0-------------------|
+ 
+                                  v v v ^ v v v v
+E |-0---0---0---0---0---0---0---0-0-0-0-0-0-0-0-0-----------------|
+B |---5---4-----------------------0-0-0-0-0-0-0-0-----------------|
+G#|-----------5---3---1---0-------0-0-0-0-1-0-1-0-----------------|
+E |---------------------------0---0-0-0---2-0-2-0-----------------|
+B |---------------------------------0-----0-0-0-0-----------------|
+E |---------------------------------0-----0-0-0-0-----------------|
+ 
+Repeat the 2nd Verse here.
+ 
+Then repeat chorus twice, with lotsa feeling, I want you tearing up by now.
+Add 2 extra B (7's) A (5's) runs in the very last chorus,
+get the lyrics from the song. Just extra ooooh's n stuff.
+ 
+Comments would be appreciated.
+ 
+--Derreck
+
+
+
+
+
+The Black Crowes Lyrics
+"She Talks To Angels"
+
+She never mentions the word "addiction"
+In certain company
+Yes, she'll tell you she's an orphan
+After you meet her family
+
+She paints her eyes as black as night now
+Pulls those shades down tight
+Yeah, she gives a smile when the pain come
+The pain gonna make everything alright
+
+Says she talks to angels
+They call her out by her name
+Oh, yeah, she talks to angels
+Says they call her out by her name
+
+She keeps a lock of hair in her pocket
+She wears a cross around her neck
+Yes, the hair is from a little boy
+And the cross is someone she has not met
+Not yet
+
+Says she talks to angels
+Says they all know her name
+Oh, yeah, she talks to angels
+Says they call her out by her name
+
+She don't know no lover
+None that I ever seen
+Yeah, to her that ain't nothin'
+But to me, yeah, me
+Means everything
+
+She paints her eyes as black as night now
+She pulls those shades down tight
+Oh, yeah, there's a smile when the pain comes
+The pain gonna make everything alright
+Alright, yeah, heah
+
+She talks to angels
+Says they call her out by her name
+Oh, yeah, heah, angels
+Call her out by her name
+Oh, ooh, oh, oh, angels
+They call her out by her name
+
+Oh, oh, oh, she talks to angels
+They call her out
+Yeah, ee, eah, eah, eah, eah
+Call her out
+Don't you know that they
+Call her out by her name? 
