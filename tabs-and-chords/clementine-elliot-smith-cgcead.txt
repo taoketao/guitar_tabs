@@ -4,7 +4,7 @@ https://tabs.ultimate-guitar.com/tab/elliott-smith/clementine-tabs-1190177
 #song. You may only use this file for private study, scholarship, or research. #
 #------------------------------------------------------------------------------#
  
- cgcead = C# G# C# F A# D# 
+ cgcead = C# G# C# F A# D#  (cf DADF#BE)
 CLEMENTINE
 As recorded by Elliott Smith
 (From the 1995 Album ELLIOTT SMITH)
@@ -262,3 +262,22 @@ E|-0-0-----------------0-----0-----|-----0------------^0--|-(0)----*|
  
 ************************************
 
+
+They're waking you up to close the bar
+The street's wet, you can tell by the sound of the cars
+The bartender's singing "Clementine"
+While he's turning around the open sign
+"Dreadful sorry, Clementine"
+Though you're still her man
+It seems a long time gone
+Maybe the whole thing's wrong
+What if she thinks so and just didn't say so?
+You drank yourself into slow-mo
+Made an angel in the snow
+Anything to pass the time
+And keep that song out of your mind
+Oh, my darling
+Oh, my darling
+Oh, my darling, Clementine
+Dreadful sorry, Clementine
+Dreadful sorry, Clementine

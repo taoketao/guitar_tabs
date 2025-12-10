@@ -345,3 +345,40 @@ D|-5-------5-------5-------5------- 0-----0-0-----0-    -5-------    -5-------
 ---0------0-----------------------------2--2--2--2----2--2--0-------------------
 ---5-/-7--------------------------------0--3--2--2----------2-------------------
 -0------------------------0-------------0--0--3--3------------------------------
+
+
+11/11/2025
+too late
+eadgbe, sounds nice on capo 5
+e|-0--------0----------0----------
+B|-0--------0----------0----------
+G|-0--    --0--    ----0---    ---
+D|-2-- x2 --0-- x2 ----2--- x4 ---  verse
+A|-2--------3----------3----------
+E|-0--------2--------x,0,2--------
+
+e|-0-------/0--------5---------3---------
+B|-2-------/5--------3---------5---------
+G|-0--    -/0--    --0--    ---0---    --
+D|-3-- x2 -/4-- x2 --4-- x2 --5,0-- x2 --  chorus
+A|-0-------/5--------0---------0---------
+E|---------/0-----------------5,0--------
+
+verse verse verse verse chorus repeat
+
+core rhythm per x1 bar, played doubletime:
+|1   2   3   4   5   6   7   8   | 
+|q   e e q   q   e e q   e e e e |
+other rhythms:
+|q.    e q   q.    e q   e e e e |
+|< . . < . . < . . < . . < . . . |
+|e e e e e e e e e e e e e e e e |
+|e e e e q   q   e e q   e e e e | etc
+
+Like most of my strummy songs, the music is made from 
+emphasis on different strings,
+artist freedom to strum up or down,
+strumming with right hand above different areas of the body,
+and left hand timing of changing notes with slides or lifts or mutes.
+
+I usually make up the lyrics, which are slow and often recovery-coded.
